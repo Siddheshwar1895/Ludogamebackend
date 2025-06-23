@@ -1,1 +1,1 @@
-// Node.js backend placeholder with Socket.IO
+// Node.js Server Entry Point
